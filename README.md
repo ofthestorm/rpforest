@@ -24,3 +24,11 @@ prettytable
 
 sklearn
 
+### How to run
+
+Run jupyter notebook in command line.
+```bash
+$ jupyter notebook
+```
+
+Run the code block with the shortcut key enter + shift one by one.
